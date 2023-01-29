@@ -1,6 +1,8 @@
 # a-https
 Andrew's Helpful Tips and Tricks; Pages and Stuff
 
+Hosted with Cloudflare Pages.
+
 ### Building with eleventy
 Run this at the base directory: `npx @11ty/eleventy`
 
