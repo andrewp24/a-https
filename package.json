@@ -1,0 +1,23 @@
+{
+  "name": "a-https",
+  "version": "1.0.0",
+  "description": "Andrew's Helpful Tips and Tricks; Pages and Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewp24/a-https.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewp24/a-https/issues"
+  },
+  "homepage": "https://github.com/andrewp24/a-https#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
