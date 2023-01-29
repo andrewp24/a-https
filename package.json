@@ -1,6 +1,6 @@
 {
   "name": "a-https",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Andrew's Helpful Tips and Tricks; Pages and Stuff",
   "main": "index.js",
   "scripts": {
